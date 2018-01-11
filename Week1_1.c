@@ -22,8 +22,6 @@
 时间限制：500ms内存限制：32000kb*/
 
 
-
-
 #include <stdio.h>
 
 int main()
